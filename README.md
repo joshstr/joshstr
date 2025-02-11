@@ -12,7 +12,7 @@ I am a Computer Science student at Medan State University, driven by curiosity a
 -
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
